@@ -14,7 +14,7 @@ Demo
 
 Watch the 50-second demonstration featuring the question "What is Generative AI?" and explore how changing temperature and maximum response tokens affects response generation.
 
-[Watch the Project Demo](assets/chatbot_demo.mp4)
+[Watch the Chatbot Demo](assets/chatbot_demo.mp4)
 
 ## Tech Stack
 
