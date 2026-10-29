@@ -9,6 +9,13 @@ A simple Q&A chatbot built using **LangChain, Ollama, and Streamlit**. It runs a
 - Configurable temperature and maximum response tokens
 - LangChain prompt templates and output parsing
 
+
+Demo
+
+Watch the 50-second demonstration featuring the question "What is Generative AI?" and explore how changing temperature and maximum response tokens affects response generation.
+
+[Watch the Project Demo](assets/chatbot_demo.mp4)
+
 ## Tech Stack
 
 Python · LangChain · Ollama · Streamlit
@@ -47,5 +54,3 @@ Open the local URL displayed in your terminal.
 ## Note
 
 Ollama must be installed and running locally, and the required model must be downloaded. No API key is required.
-
-This is a learning project developed while exploring Generative AI and LLM application development.
