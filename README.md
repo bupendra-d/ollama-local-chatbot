@@ -33,7 +33,7 @@ ollama pull llama3.2:3b
 **3. Clone this repository and enter the project directory:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ollama-local-chatbot.git
+git clone https://github.com/bupendra-d/ollama-local-chatbot.git
 cd ollama-local-chatbot
 ```
 
